@@ -1,5 +1,5 @@
-(module SW_SLIDE_sengoku (layer F.Cu) (tedit 5F880E9B)
-  (fp_text reference REF** (at 2.54 -5.08) (layer F.SilkS)
+(module SW_SLIDE_sengoku (layer F.Cu) (tedit 608AA693)
+  (fp_text reference SW_SLIDE (at 3.81 -5.08) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SW_SLIDE_sengoku (at 5.08 1.27) (layer F.Fab)
