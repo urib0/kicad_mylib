@@ -1,5 +1,5 @@
-(module PinHeader_XIAO (layer F.Cu) (tedit 5F98E3CC)
-  (fp_text reference REF** (at -7.62 -5.85) (layer F.SilkS)
+(module PinHeader_XIAO (layer F.Cu) (tedit 608A9F36)
+  (fp_text reference ~ (at -7.62 -5.85) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value PinHeader_XIAO (at -7.62 -6.85) (layer F.Fab)
