@@ -1,5 +1,5 @@
-(module SHT-31_aliexpress (layer F.Cu) (tedit 5FC783F5)
-  (fp_text reference REF** (at 1.27 -11.43) (layer F.SilkS)
+(module SHT-31_aliexpress (layer F.Cu) (tedit 608AA5A7)
+  (fp_text reference SHT-31 (at 8.89 -8.89) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SHT-31_aliexpress (at 11.43 -11.43) (layer F.Fab)
