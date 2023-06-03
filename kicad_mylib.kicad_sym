@@ -76,7 +76,7 @@
     (property "Value" "ATTINYx14" (at 5.08 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "MYLIB:module_ATTINYxxx4" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
